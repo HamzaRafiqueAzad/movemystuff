@@ -1,0 +1,243 @@
+ .u-section-1 {
+  background-image: url("images/Map-Direction-Francom-Asia.jpg");
+  min-height: 889px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+    min-height: 733px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 561px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 421px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 265px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 127px;
+}
+
+.u-section-2 .u-list-1 {
+  width: 535px;
+  margin: 45px auto 20px;
+}
+
+.u-section-2 .u-repeater-1 {
+  min-height: 62px;
+  grid-auto-columns: calc(33.3333% - 35.3333px);
+  grid-template-columns: calc(33.3333% - 35.3333px) calc(33.3333% - 35.3333px) calc(33.3333% - 35.3333px);
+  grid-gap: 53px 53px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 0 -15px 0 auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 0 0 0 18px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-btn-3 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 0 -15px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(33.333333333333336% - 35.3333px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 35.3333px));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 186px;
+    grid-auto-columns: calc(50% - 26.499975px);
+    grid-template-columns: repeat(2, calc(50% - 26.499975px));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 200px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 36px 0 30px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 129px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 43px 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 129px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.u-section-3 .u-btn-1 {
+  font-weight: 400;
+  background-image: none;
+  margin: 15px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 49px;
+    padding-right: 49px;
+  }
+
+  .u-section-3 .u-text-1 {
+    position: relative;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 49px;
+    padding-right: 49px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    position: relative;
+    width: 187px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    width: 143px;
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    width: 134px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    width: 113px;
+  }
+}
